@@ -1,2 +1,2 @@
 # test-slack
-test slack notify v3
+test slack notify v4
